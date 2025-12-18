@@ -14,7 +14,7 @@ import (
     "strconv"
     "strings"
 
-    "ibakaidov/opencorpora-words-golang/opencorpora"
+    "github.com/ibakaidov/opencorpora-words-golang/opencorpora"
 )
 
 func main() {

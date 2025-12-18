@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"ibakaidov/opencorpora-words-golang/opencorpora"
+	"github.com/ibakaidov/opencorpora-words-golang/opencorpora"
 )
 
 func main() {
