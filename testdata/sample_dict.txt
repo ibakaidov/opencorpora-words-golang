@@ -1,0 +1,9 @@
+1
+КОТ	NOUN,anim,masc sing,nomn
+КОТА	NOUN,anim,masc sing,gent
+КОТЫ	NOUN,anim,masc plur,nomn
+
+2
+БЫСТРЫЙ	ADJF,Qual masc,sing,nomn
+БЫСТРАЯ	ADJF,Qual femn,sing,nomn
+БЫСТРЫХ	ADJF,Qual plur,gent
