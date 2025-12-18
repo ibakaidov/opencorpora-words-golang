@@ -11,7 +11,7 @@
 
 ## Установка
 ```bash
-go get ibakaidov/opencorpora-words-golang
+go get github.com/ibakaidov/opencorpora-words-golang
 ```
 
 ## Генерация enum-ов
